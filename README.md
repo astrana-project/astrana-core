@@ -175,7 +175,7 @@ See the [LICENSE](license) file for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Please see [ACKNOWLEDGEMENTS.md](Acknowledgements.md) for a comprehensive list of acknowledgements.
+Please see [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for a comprehensive list of acknowledgements.
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 
